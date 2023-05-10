@@ -1,0 +1,19 @@
+body {
+
+    margin: 0px;
+    background-color: rgb(14, 14, 14);
+
+}
+
+#botao {
+
+    color: white;
+    border: 100px solid white;
+    background-color: white;
+    font-weight: bold;
+    font-size: 80px;
+    font-family: arial;
+    margin: 300px 700px;
+    text-align: center;
+
+}
